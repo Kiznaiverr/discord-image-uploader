@@ -72,7 +72,7 @@ If you prefer using Docker:
 
 ### Option 2: Use Existing Uploader
 
-Alternatively, you can use our hosted version at: [nerina-chi](https://nerina-chi.netlify.app/)
+Alternatively, you can use our hosted version at: [nerina-chi](https://nerina-chi-fpngjmrv.deployra.app/)
 
 > [!IMPORTANT]
 > When using the hosted uploader, uploaded files will be visible to the service maintainer. The Discord server used is private, so only the maintainer can access the files. Use at your own discretion.
